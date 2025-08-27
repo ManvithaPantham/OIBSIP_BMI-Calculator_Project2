@@ -20,9 +20,8 @@ It introduces **beginners** to simple calculations and input handling while prov
   - `pandas` (for data storage & analysis)  
   - `json` / `sqlite3` (for storing user data)
 
-    📝 Steps Performed
+ 📝 Steps Performed
    
-
 Created GUI with Tkinter/PyQt.
 
 Added input fields, labels, and result display.
