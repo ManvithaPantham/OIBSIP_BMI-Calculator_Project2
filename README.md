@@ -18,4 +18,31 @@ It introduces **beginners** to simple calculations and input handling while prov
   - `tkinter` / `PyQt` (for GUI)  
   - `matplotlib` (for graphs)  
   - `pandas` (for data storage & analysis)  
-  - `json` / `sqlite3` (for storing user data)  
+  - `json` / `sqlite3` (for storing user data)
+
+    📝 Steps Performed
+   
+
+Created GUI with Tkinter/PyQt.
+
+Added input fields, labels, and result display.
+
+Implemented data storage (JSON/SQLite).
+
+Enabled multiple user support.
+
+Visualized historical BMI data using matplotlib.
+
+🎯 Learning Outcomes
+
+How to implement BMI calculation in Python.
+
+Using Tkinter/PyQt for GUI development.
+
+Managing data storage with JSON/SQLite.
+
+Creating data visualizations with matplotlib.
+
+Handling user input validation and errors.
+
+Added error handling for invalid inputs or missing data.
